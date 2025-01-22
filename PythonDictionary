@@ -1,0 +1,5 @@
+student={'rollno':101,'Name':'ajay'}
+student['Fees']=5000
+print(student)
+#output
+{'rollno': 101, 'Name': 'ajay', 'Fees': 5000}
