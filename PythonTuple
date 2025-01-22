@@ -1,0 +1,5 @@
+x=(2,3,4,6)
+x=list(x);
+x.append(7)
+x=tuple(x)
+print(x)
