@@ -1,0 +1,4 @@
+x=['a','x','y','z',['d','e','f'],'p','q','r']
+x.append('g');
+x[4].insert(2,'h');
+print(x);
