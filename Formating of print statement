@@ -1,0 +1,3 @@
+RollNo=101
+Name="Rajesh"
+print(f"RollNo is {RollNo} Name of student is {Name}")
